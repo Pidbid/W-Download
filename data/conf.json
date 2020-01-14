@@ -1,8 +1,8 @@
 {
     "hostMsg": {
-        "ip": "ws://118.107.12.46",
-        "port": "2000",
-        "api": "https://paa.fun/send/Applications/wdownload/api.php"
+        "ip": "ws://XXX.XXX.XXX.XXX",
+        "port": "Your port",
+        "api": "https://Your Domain/Applications/wdownload/api.php"
     },
     "user": {
         "name": "admin",
